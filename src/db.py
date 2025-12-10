@@ -35,16 +35,3 @@ class Database:
 
 
 
-db=Database("test.json")
-
-# db.insert_product(
-#     {
-#         "asin":"B102",
-#         "name":"Earphone",
-#         "price":38.99
-#     }
-# )
-
-print(db.search_products({"price":38.99,"asin":"B101"}))
-
-    
