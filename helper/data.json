@@ -1,0 +1,1 @@
+{"products": {"1": {"id": "B001", "name": "iphone", "price": 9.99}, "3": {"id": "B004", "name": "Power Bank", "price": 20}, "4": {"id": "B005", "name": "Player", "price": 30}}, "users": {"1": {"name": "John", "age": 32}, "2": {"name": "John", "age": 32}}}
