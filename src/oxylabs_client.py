@@ -209,3 +209,5 @@ def scrape_multiple_products(asins,geo_location,domain):
 
 
 
+
+
